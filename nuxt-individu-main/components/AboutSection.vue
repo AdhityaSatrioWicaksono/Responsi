@@ -1,7 +1,10 @@
 <template>
+  <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css'>
   <section class="about">
     <h2>About Me</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <img src="assets/adhit.jpg" alt="adhit" width="300">
+    <p>Adhitya Satrio WIcakosno 22.11.4635.</p>
+
   </section>
 </template>
 
@@ -14,5 +17,8 @@ export default {
 <style scoped>
 .about {
   padding: 50px 0;
+  
 }
+
+
 </style>
